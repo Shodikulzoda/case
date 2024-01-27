@@ -542,13 +542,6 @@ Module Program
                 четни += i & " "
 
 
-            Else
-                нечетни += i & " "
-            End If
-        Next
-
-        Console.WriteLine("Четни : " & четни)
-        Console.WriteLine("Нечетни: " & нечетни)
 
 
 
